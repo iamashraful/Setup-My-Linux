@@ -2,7 +2,7 @@
 
 """
 This is very begining of the script. I am really bored to setup everything after fresh install.
-So, I decided to write this script to setup my serveral machines. The main job of the script is
+So, I decided to write this script to setup my several machines. The main job of the script is
 following...
 
 1. Install dependencies and peer dependencies from libraries.json file
