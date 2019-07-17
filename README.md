@@ -1,6 +1,6 @@
 
-##### Author: Ashraful Islam <ashraf@iashraful.me>		
-##### Github: https://github.com/iamashraful				
+##### Author: Ashraful Islam <ashraful.py@gmail.com>		
+##### Github: https://github.com/iashraful				
 *NOTE*: This small script will only work for Ubuntu	
 and Ubuntu flavors system like Linux mint,		
 Xubuntu, Kubuntu etc... 						
